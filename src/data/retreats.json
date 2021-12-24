@@ -1,0 +1,27 @@
+[
+    {
+        "img": "../assets/images/retreat-1.jpg",
+        "alt": "Buddha",
+        "name": "Buddha",
+        "button": "View Retreat"
+    },
+    {
+        "img": "../assets/images/retreat-2.jpg",
+        "alt": "Lotus",
+        "name": "Lotus",
+        "button": "View Retreat"
+    },
+    {
+        "img": "../assets/images/retreat-3.jpg",
+        "alt": "Candle",
+        "name": "Candle",
+        "button": "View Retreat"
+    },
+
+    {
+        "img": "../assets/images/retreat-4.jpg",
+        "alt": "House",
+        "name": "House",
+        "button": "View Retreat"
+    }
+]
