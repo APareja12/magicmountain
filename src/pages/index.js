@@ -3,12 +3,14 @@ import Hero from "../components/Hero"
 import Layout from "../components/layout"
 import Retreats from "../components/Retreats"
 import Seo from "../components/seo"
+import Testimonials from "../components/Testimonials"
 
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <Hero />
-    <Retreats />
+    <Retreats heading="Our Favorite Retreats"/>
+    <Testimonials />
   </Layout>
 )
 
